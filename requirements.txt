@@ -3,3 +3,5 @@ pandas
 matplotlib
 seaborn
 sqlalchemy
+requests
+python-dotenv
